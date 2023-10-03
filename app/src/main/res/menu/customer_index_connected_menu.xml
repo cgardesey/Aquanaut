@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_disconnect"
+        android:title="Disconnect"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_reset_username"
+        android:title="Reset username"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_reset_password"
+        android:title="Reset password"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_profile"
+        android:title="Profile"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_company"
+        android:title="Company"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_branch"
+        android:title="Branch"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_sign_out"
+        android:title="Sign Out"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/reset_tag"
+        android:orderInCategory="11"
+        android:title="Reset Tag"
+        app:showAsAction="never" />
+    <!--<item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="11"
+        android:icon="@drawable/reload"
+        android:title="Refresh Customer List"
+        app:showAsAction="always" />-->
+
+</menu>

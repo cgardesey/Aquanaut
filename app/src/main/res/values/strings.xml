@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aquanaut</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting&#8230;</string>
+    <string name="status_connected">Connected to %1$s</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_crlf">CRLF</string>
+    <string name="action_quit">Quit</string>
+    <string name="no_bluetooth">Bluetooth is not available on this device.</string>
+    <string name="paired_devices">Choose a paired Bluetooth device</string>
+    <string name="command_hint">Enter command here...</string>
+    <string name="terminal_message_template">%1$s > %2$s\n</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="connection_error">Connection error.</string>
+    <string name="timeout_error">Timeout error.</string>
+    <string name="authentication_failure">Authentication Failure.</string>
+    <string name="server_error">External application down.</string>
+    <string name="network_error">Network error.</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="updating_profile">Updating profile...</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="internet_connection_is_needed">Internet connection is needed.</string>
+    <string name="pls_correct_the_errors">Please correct the errors on all pages.</string>
+    <string name="error_occured">Error occured!</string>
+    <string name="exit">Exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="view_location"><u>Click to view location</u></string>
+
+</resources>
