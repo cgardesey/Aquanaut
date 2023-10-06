@@ -55,4 +55,4 @@ If you're looking to integrate with arduino project, make sure to check out the 
 
 ## License
 
-RemoteWaterMonitoring project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
