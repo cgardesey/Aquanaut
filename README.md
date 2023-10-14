@@ -14,17 +14,23 @@ This project includes the following features:
 - **Register Tag**: Allows clients to register new tags for their users. On the user tag list screen, user places RFID tag on embedded device to launch *Register Tag* material dialog to register new tags for users.
   
 - **user Registration**: Allows clents to register new users and update user details.
+![11]()
+![10]()
+![9]()
+
 
 ## Screenshots
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/ec2a2c6d-7592-486a-8fd4-98f495b18472" width="250" alt="Screenshot 1">
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/6a140061-f064-4fa4-8319-0e1ebf64064e" width="250" alt="Screenshot 2">
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/6ca2356e-edaf-4fb6-97d6-7a651d7496ac" width="250" alt="Screenshot 3">
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/47857b1c-5dd7-45c1-ab39-0f832959c270" width="250" alt="Screenshot 4">
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/a8bc4802-9cb9-4d17-92a4-68f19d503b33" width="250" alt="Screenshot 5">
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/a9fbe2f8-0836-4dc7-8c03-2a221fc94b73" width="250" alt="Screenshot 6">
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/ab38b6c4-7f08-47ba-af0a-f47be031e089" width="250" alt="Screenshot 7">
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/ac37f21c-b5be-4b67-a0cf-0d4875d28484" width="250" alt="Screenshot 8">
-<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/2a5d48ad-fc14-447f-bdb9-debe7e6d6603" width="250" alt="Screenshot 8">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/1bcb6dd2-376b-407a-8d28-5435bee80a1d" width="250" alt="Screenshot 1">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/46967e47-97b9-4785-b122-611c4fbe0c34" width="250" alt="Screenshot 2">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/08532ec5-07b2-4628-9518-9d0fa56fc9ca" width="250" alt="Screenshot 3">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/47f31fa5-81b2-450d-8f15-bb3cfbc03f4b" width="250" alt="Screenshot 4">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/a839d383-eed4-494c-b83f-7f4b3e029de4" width="250" alt="Screenshot 5">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/dd7bd9eb-bba2-4042-8fe5-d68ab25d9988" width="250" alt="Screenshot 6">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/2a1104dc-0987-4459-8574-87d917645c5b" width="250" alt="Screenshot 7">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/c51e5cd2-60af-4d87-8cc1-f08efad59d16" width="250" alt="Screenshot 8">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/d94a7f06-09d4-4914-894d-cafd2f9e4cbb" width="250" alt="Screenshot 9">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/18681d43-49cb-46d2-838f-633eb52fb852" width="250" alt="Screenshot 10">
+<img src="https://github.com/cgardesey/Aquanaut/assets/10109354/b68df410-4883-434b-8573-f999e12d1c5d" width="250" alt="Screenshot 11">
 
 ## Getting Started
 
