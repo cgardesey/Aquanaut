@@ -14,10 +14,6 @@ This project includes the following features:
 - **Register Tag**: Allows clients to register new tags for their users. On the user tag list screen, user places RFID tag on embedded device to launch *Register Tag* material dialog to register new tags for users.
   
 - **user Registration**: Allows clents to register new users and update user details.
-![11]()
-![10]()
-![9]()
-
 
 ## Screenshots
 <img src="https://github.com/cgardesey/Aquanaut/assets/10109354/1bcb6dd2-376b-407a-8d28-5435bee80a1d" width="250" alt="Screenshot 1">
